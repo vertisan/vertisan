@@ -7,11 +7,13 @@ My journey as a developer started in <b>2014</b> when I was building simple HTML
 
 The next step was WordPress, with which I spent some time creating entire websites from "0", including themes, plugins, dedicated integrations, security, optimizations, etc. In the meantime, I also started to develop more in the backend aspects, creating dedicated applications in Laravel & Symfony, in which I worked regularly in cooperation with **Docker** for the next years 👾
 
-In <b>2020</b>, I changed my technology stack and development path a bit, switching from PHP to **Node.js** and starting to work more closely with **AWS** and **Docker (Swarm)**, which I still do today 😈
+In <b>2020</b>, I changed my technology stack and development path a bit, switching from PHP to **Node.js** and starting to work more closely with **AWS** and **Docker (Swarm)** 😈
 </p>
 
 <p>
-  Cloud technologies are an area that is very interesting to me and I'm also interested in going in that way. Currently, I have the most experience with AWS, but I'm also open to learning about GCP or Azure 👹
+  Cloud technologies are an area that is very interesting to me and I am also interested in moving in this direction. Since 2022, I have been looking more and more often at topics related to infrastructure, Kubernetes, GitOps things, etc. moving towards Cloud/DevOps 👹
+
+  Currently, I have the most experience with AWS, but I'm also trying to work with GCP or Azure.
 </p>
 
 <p>Any questions? <b>Reach me out!</b></p>
@@ -24,55 +26,78 @@ In <b>2020</b>, I changed my technology stack and development path a bit, switch
 
 > Tools, languages, and other things that I like to work with.
 
+<p>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/k3s-%23ffc61c.svg?style=for-the-badge&logo=k3s&logoColor=black" alt="" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/argo-%23ef7b4d.svg?style=for-the-badge&logo=argo&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/prometheus-%23e6522c.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/grafana-%23f46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/helm-0f1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/kustomize-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/podman-892ca0.svg?style=for-the-badge&logo=podman&logoColor=white" alt="" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+</p>
 
-<img src="https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-<img src="https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="" />
-<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="" />
+  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="" />
+  <img src="https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
 
 <h3 id="extra-tech">Side technologies</h3>
 
 > Additional technologies that I know to a lesser extent or I'm not working with any longer regularly. <br />
 
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="" /> <img src="https://img.shields.io/badge/php%207-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/symfony%204/5-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="" />
-<img src="https://shields.io/badge/react-gray?logo=react&style=for-the-badge" alt="" />
+<p>
+  <img src="https://img.shields.io/badge/php%207-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/symfony%204/5-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="" />
+  <img src="https://shields.io/badge/react-gray?logo=react&style=for-the-badge" alt="" />
+</p>
 
 
 <h3>Environment</h3>
 
 > Everyone works in some environment 👻
-> P.S. I have never worked with Mac - that can be so a funny experience 😂
 
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="" /> <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/PyCharm-0AC6E4?style=for-the-badge&logo=PyCharm&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white
-" alt="" />
-<img src="https://img.shields.io/badge/wayland-FFA500?style=for-the-badge&logo=wayland&logoColor=white" alt="" />
+<h4>MacOS</h4>
+<p>
+  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/iterm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="" />
+</p>
+
+<h4>Linux</h4>
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/wayland-FFA500?style=for-the-badge&logo=wayland&logoColor=white" alt="" />
+</p>
 
 ## Projects & contributions
 
 ### Terraform Modules
 
-Since we got to like Terraform, I started developing existing modules and creating my own modules, also my own boilerplate. <br />Most of them have been prepared for specific cases, but the "Fork" option will always help 👹
+Since we got to like Terraform, I started developing existing modules and creating my own modules, as well as my boilerplate. <br />Most of them have been prepared for specific cases, but the "Fork" option will always help 👹
 
 <a href="https://github.com/orgs/vrs-factory/repositories?q=terraform-&type=all&language=&sort="><img src="https://img.shields.io/badge/check%20modules-9619d2.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="" /></a>
 
