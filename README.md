@@ -75,7 +75,10 @@ In <b>2020</b>, I changed my technology stack and development path a bit, switch
 
 > Everyone works in some environment 👻
 
-<h4>MacBook M3 Pro [11 CPU, 16 GPU, 36GB RAM, SSD 1TB]</h4>
+<h4>MacBook M3 Pro</h4>
+
+<sub><sup>11 CPU, 16 GPU, 36GB RAM, SSD 1TB</sup></sub>
+
 <p>
   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="" />
@@ -83,7 +86,10 @@ In <b>2020</b>, I changed my technology stack and development path a bit, switch
   <img src="https://img.shields.io/badge/iterm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="" />
 </p>
 
-<h4>Dell G5 [i5-8300H, GTX 1050Ti, 16GB RAM, SSD 1TB]</h4>
+<h4>Dell G5</h4>
+
+<sub><sup>i5-8300H, GTX 1050Ti, 16GB RAM, SSD 1TB</sup></sub>
+
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="" />
