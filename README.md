@@ -31,7 +31,7 @@ In <b>2020</b>, I changed my technology stack and development path a bit, switch
   <img src="https://img.shields.io/badge/k3s-%23ffc61c.svg?style=for-the-badge&logo=k3s&logoColor=black" alt="" />
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/argo-%23ef7b4d.svg?style=for-the-badge&logo=argo&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/argocd-%23ef7b4d.svg?style=for-the-badge&logo=argo&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/prometheus-%23e6522c.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/grafana-%23f46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/helm-0f1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="" />
@@ -75,7 +75,7 @@ In <b>2020</b>, I changed my technology stack and development path a bit, switch
 
 > Everyone works in some environment 👻
 
-<h4>MacOS</h4>
+<h4>MacBook M3 Pro [11 CPU, 16 GPU, 36GB RAM, SSD 1TB]</h4>
 <p>
   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="" />
@@ -83,7 +83,7 @@ In <b>2020</b>, I changed my technology stack and development path a bit, switch
   <img src="https://img.shields.io/badge/iterm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="" />
 </p>
 
-<h4>Linux</h4>
+<h4>Dell G5 [i5-8300H, GTX 1050Ti, 16GB RAM, SSD 1TB]</h4>
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="" />
@@ -92,6 +92,14 @@ In <b>2020</b>, I changed my technology stack and development path a bit, switch
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/wayland-FFA500?style=for-the-badge&logo=wayland&logoColor=white" alt="" />
 </p>
+
+<h3>Homelab</h3>
+
+> My personal playground 🛝
+
+See yaa soon ;)
+
+# <h4>Servers</h4>
 
 ## Projects & contributions
 
