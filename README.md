@@ -124,7 +124,21 @@ I'm Pawel, a programmer from 🇵🇱Poland.
 - **Actions Runner Controller (ARC)** - Self-hosted GitHub runners management
 - **HAProxy & Keepalived & Metallb** - Load balancers and VirtualIP
 
+<h4>Repositories</h4>
+
+The entire homelab infrastructure is of course maintained in the repositories available here: [VRS-Factory Homelab](https://github.com/vrsf-homelab).
+I have decided to use a GH organization to better organize them (I don't like overly "general" monoliths).
+
+At this moment all repositories are private but if you want to see them, just let me know 🎃
+
 ## Projects & contributions
+
+### Kubernetes Helms
+
+A long time ago, a friend recommended an interesting exporter to Prometheus for RouterOS metrics (MikroTik), but I couldn't find a sensible Helm for it, and I didn't want to maintain static manifests.
+That's why my first publicly available Helm was created ;) It is actively maintained by me and I don't rule out that more will appear in the future 🪖
+
+<a href="https://helm.vrs-factory.dev"><img src="https://img.shields.io/badge/check%20my%20helms-0f1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="" /></a>
 
 ### Terraform Modules
 
