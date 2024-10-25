@@ -120,14 +120,14 @@ I'm Pawel, a programmer from 🇵🇱Poland.
 - **Terraform** - Provisioner for: Proxmox VMs, Cloud things, Vault, Cloudflare, SSO, etc.
 - **Cloudflare & Nginx Ingress** - DNS management & reverse proxy for services (K3s & standalone)
 - **Ansible** - Stateless provisioning for: K3s & Vault cluster setup, load balancer, etc.
-- **Prometheus & Grafana & Alertsmanager** - General monitoring of services and tools
+- **Prometheus & Grafana** - General monitoring of services and tools
 - **Actions Runner Controller (ARC)** - Self-hosted GitHub runners management
 - **HAProxy & Keepalived & Metallb** - Load balancers and VirtualIP
 
 <h4>Repositories</h4>
 
 The entire homelab infrastructure is of course maintained in the repositories available here: [VRS-Factory Homelab](https://github.com/vrsf-homelab).
-I have decided to use a GH organization to better organize them (I don't like overly "general" monoliths).
+I have decided to use a GH organization to organize them better (I don't like overly "general" monoliths).
 
 At this moment all repositories are private but if you want to see them, just let me know 🎃
 
@@ -140,6 +140,14 @@ That's how my first publicly available Helm was created! 🪖  <br />
 It is actively maintained by me and I don't rule out that more will appear in the future 🧙🏻‍♂️
 
 <a href="https://helm.vrs-factory.dev"><img src="https://img.shields.io/badge/deploy%20some%20helms-0f1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="" /></a>
+
+### Vault Snapshot Agent
+
+HashiCorp Vault is an identity-based secrets and encryption management system. Vault takes care of the security of secrets, so it is obvious to take care of the security of Vault itself!  <br />
+The first step to this point on the list is to perform backups, but doing them manually can be irritating. To automate this, you can use cron or .. Vault Snapshot Agent 🤠 <br />
+This agent is a simple binary that allows for automated making of Vault backups.
+
+<a href="https://github.com/vertisan/vault-snapshot-agent"><img src="https://img.shields.io/badge/Let's%20Vault!-FFCF25.svg?style=for-the-badge&logo=vault&logoColor=black" alt="" /></a>
 
 ### Terraform Modules
 
