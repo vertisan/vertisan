@@ -1,182 +1,70 @@
-# 👋 Hi there! How's it going? 😊
+# 👋 Hi, I'm Pawel
 
-I'm Pawel, a DevOps and ex-developer from 🇵🇱Poland.
+**DevSecOps & Platform Engineer** 
 
-<p>
-  My journey as a developer started in <b>2014</b> when I was building simple HTML pages as a hobby to earn some 💰.
+I automate the boring parts of infrastructure - from a project's CI/CD up to provisioning a whole K8s cluster with monitoring and GitOps from a single form.
 
-  The next step was WordPress, with which I spent some time creating entire websites from "0", including themes, plugins, dedicated integrations, security, optimizations, etc. In the meantime, I also started to develop more in the backend aspects, creating dedicated applications in Laravel & Symfony, in which I worked regularly in cooperation with **Docker** for the next years 👾
+Day-to-day: **Kubernetes, Terraform, GitOps, Vault, Ansible, AWS/GCP**; ex-Developer (PHP, Node.js), which is why I still like writing tooling in Python & Go.
 
-  In <b>2020</b>, I changed my technology stack and development path a bit, switching from PHP to **Node.js** and starting to work more closely with **AWS** and **Docker (Swarm)** 😈
-</p>
+I maintain a few things you can actually use:
 
-<p>
-  Since 2022, I have been looking more and more often at topics related to infrastructure things like Kubernetes, GitOps, automation, etc., moving towards a DevOps role 👹 I'm most interested in automating processes, starting from a standard CI/CD for a project (e.g., for an application) and ending with provisioning the entire environment (e.g., K8s cluster with monitoring, GitOps, etc.) from a simple form 🤖
-</p>
-<p>
-  The cloud environment is also one of my interests, which is why, within the homelab, I combined both the local and cloud environment (Terraform, Object Storage, KMS, etc.).
-  <br /> Currently, I have the most experience with AWS (DynamoDB, EC2 & ASG, EKS, R53, SQS, SNS, etc.), but personally, I mostly use GCP for my homelab and other stuff.
-</p>
+- 🪖 [**Helm charts**](https://helm.vrs-factory.dev) - starting with a RouterOS (MikroTik) exporter for Prometheus, because no sensible chart existed and I didn't want to babysit static manifests.
+- 🗄 [**Vault Snapshot Agent**](https://github.com/vertisan/vault-snapshot-agent) - a small binary that automates HashiCorp Vault backups. Vault secures your secrets; someone should secure Vault.
+- 👹 [**Terraform modules**](https://github.com/orgs/vrs-factory/repositories?q=terraform-&type=all) - mostly built for specific cases, but the Fork button is right there.
+- 😈 [**LeDo**](https://github.com/paramah/ledo) - a CLI that makes working with Docker on a project less painful. A friend's project I help develop.
+- 📖 [**Symfony: The Fast Track**](https://symfony.com/book) - I've helped translate the Polish edition since day one.
+- 📺 [**Twitch Helix Provider for OAuth 2.0**](https://github.com/orgs/vrs-factory/repositories?q=terraform-&type=all) - One of my first creations in the open-source world. Still active - [still popular](https://packagist.org/packages/vertisan/oauth2-twitch-helix/stats)!
 
-<p>Any questions? <b>Reach me out!</b></p>
-<p>
-<a href="https://www.linkedin.com/in/pawel-farys/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:pmg.farys@gmail.com"><img src="https://img.shields.io/badge/Email-404d59?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pawel-farys/) 
+[![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/vertisan)
 
-<h2 id="main-tech">Main technologies</h2>
+---
 
-> Tools, languages, and other things that I like to work with.
+## 🛠️ Stack
 
-<p>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/argocd-%23ef7b4d.svg?style=for-the-badge&logo=argo&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/prometheus-%23e6522c.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/grafana-%23f46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/helm-0f1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/kustomize-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/vault-FFCF25.svg?style=for-the-badge&logo=vault&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/packer-02A8EF.svg?style=for-the-badge&logo=packer&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-</p>
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![ArgoCD](https://img.shields.io/badge/argocd-%23ef7b4d.svg?style=for-the-badge&logo=argo&logoColor=white)](#)
+[![HCP Vault](https://img.shields.io/badge/vault-FFCF25.svg?style=for-the-badge&logo=vault&logoColor=white)](#)
+[![Ansible](https://img.shields.io/badge/ansible-000000.svg?style=for-the-badge&logo=ansible&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/python-%23306998.svg?style=for-the-badge&logo=python&logoColor=white)](#)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-</p>
+Also regularly: Helm, Kustomize, Packer, Prometheus, Grafana, Go, PostgreSQL, Redis, Nginx.
 
-<h3 id="extra-tech">Side technologies</h3>
+**Clouds** - most production experience on AWS (EKS, EC2 & ASG, DynamoDB, R53, SQS, SNS), GCP is evolving 😋
 
-> Additional technologies that I know to a lesser extent, or I'm not working with any longer regularly. <br />
+---
 
-<p>
-  <img src="https://img.shields.io/badge/php%207-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/symfony%204/5-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="" />
-  <img src="https://shields.io/badge/react-gray?logo=react&style=for-the-badge" alt="" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-</p>
+## 🏠 Homelab
 
-<h3>Environment</h3>
+My playground, and where most of the above gets tested before I trust it anywhere else.
 
-> Everyone works in some environment 👻
+**Hardware**
 
-<h4>MacBook M3 Pro</h4>
+| Toy | Spec |
+|---|---|
+| Lenovo ThinkCentre M720q Tiny | i5-8500T, 64 GB RAM, 1 TB NVMe |
+| Lenovo ThinkCentre M720q Tiny | i5-8500T, 32 GB RAM, 1 TB NVMe |
+| Lenovo ThinkCentre M920q Tiny | i7-8700T, 64 GB RAM, 1 TB NVMe |
+| Synology DS720+ | 2× 4 TB, 512 GB NVMe cache |
+| Network | MikroTik RB5009UG+S+IN, UniFi U6+ |
 
-<sub><sup>11 CPU, 16 GPU, 36GB RAM, SSD 1TB</sup></sub>
+**Software**
 
-<p>
-  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/iterm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="" />
-</p>
+- **Proxmox** + **Packer** - virtualization and image building
+- **K3s** - the cluster itself
+- **Terraform** - Proxmox VMs, cloud envs, Vault, Cloudflare, and much more
+- **Ansible** - stateless provisioning for K3s, Vault, load balancers, and so much other stuff!
+- **ArgoCD** - GitOps
+- **HashiCorp Vault** (+ VSO) - secrets
+- **Cloudflare & Traefik** - DNS and reverse proxy
+- **HAProxy, Keepalived, MetalLB** - load balancing and VIPs
+- **Prometheus, Grafana** - monitoring; **Pushover** for alerts
+- **Tailscale** - VPN
+- **Renovate** - dependency updates
 
-<h4>Dell G5</h4>
+---
 
-<sub><sup>i5-8300H, GTX 1050Ti, 16GB RAM, SSD 1TB</sup></sub>
-
-<p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/wayland-FFA500?style=for-the-badge&logo=wayland&logoColor=white" alt="" />
-</p>
-
-### Homelab
-
-> My playground 🛝
-
-<h4>Hardware</h4>
-
-- Lenovo ThinkCentre M720q Tiny (i5-8500T, 64GB RAM, 1TB NVMe)
-- Lenovo ThinkCentre M720q Tiny (i5-8500T, 32GB RAM, 1TB NVMe)
-- Lenovo ThinkCentre M920q Tiny (i7-8700T, 64GB RAM, 1TB NVMe)
-- Synology DS720+ (2x 2TB)
-- MikroTik hAP ac³
-- TP-Link TL-SG2008
-- UniFi U6+
-
-<sub><sup>* - The third one will appear in the future to meet the quorum</sup></sub>
-
-<h4>Software & environment</h4>
-
-- **Proxmox** - Virtualization platform
-- **K3s** - Kubernetes distribution
-- **HashiCorp Vault** - Storage for secrets for K3s (VSO), etc.
-- **ArgoCD** - GitOps for K3s cluster
-- **Packer** - Preparing images for Proxmox
-- **Terraform** - Provisioner for: Proxmox VMs, Cloud things, Vault, Cloudflare, SSO, etc.
-- **Cloudflare & Traefik** - DNS management & reverse proxy for services (K3s & standalone)
-- **Ansible** - Stateless provisioning for: K3s & Vault cluster setup, load balancer, etc.
-- **Prometheus & Consul & Grafana** - General monitoring of services
-- **Pushover** - Push notifications mostly from monitoring
-- **GitHub & GitLab** - Code repositories, and self-hosted runners
-- **HAProxy & Keepalived & Metallb** - Load balancers and VirtualIP
-- **Tailscale** - VPN solution
-- **Renovate** - Automation for dependencies updates
-
-## Projects & contributions
-
-### Kubernetes Helms
-
-A long time ago, a friend recommended an interesting exporter to Prometheus for RouterOS metrics (MikroTik), but I couldn't find a sensible Helm for it, and I didn't want to maintain static manifests. <br />
-That's how my first publicly available Helm was created! 🪖  <br />
-It is actively maintained by me, and I don't rule out that more will appear in the future 🧙🏻‍♂️
-
-<a href="https://helm.vrs-factory.dev"><img src="https://img.shields.io/badge/deploy%20some%20helms-0f1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="" /></a>
-
-### Vault Snapshot Agent
-
-HashiCorp Vault is an identity-based secrets and encryption management system. Vault takes care of the security of secrets, so it is obvious to take care of the security of Vault itself!  <br />
-The first step to this point on this list is to perform backups, but doing them manually can be irritating. To automate this, you can use cron or Vault Snapshot Agent 🤠 <br />
-This agent is a simple binary that allows for automated making of Vault backups.
-
-<a href="https://github.com/vertisan/vault-snapshot-agent"><img src="https://img.shields.io/badge/Let's%20Vault!-FFCF25.svg?style=for-the-badge&logo=vault&logoColor=black" alt="" /></a>
-
-### Terraform Modules
-
-Since we got to like Terraform, I started developing existing modules and creating my own modules, as well as my boilerplate. <br />Most of them have been prepared for specific cases, but the "Fork" option will always help 👹
-
-<a href="https://github.com/orgs/vrs-factory/repositories?q=terraform-&type=all&language=&sort="><img src="https://img.shields.io/badge/check%20modules-9619d2.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="" /></a>
-
-### Lead Docker
-
-Working in one of the companies, an internal CLI tool was created, which facilitated, among others, working with Docker on a project, but it lacked some facilities that a friend included in his project, which I'm helping to develop. Say hello to LeDo 😈
-
-<a href="https://github.com/paramah/ledo"><img src="https://img.shields.io/badge/start%20with%20ledo-4053D6.svg?style=for-the-badge&logo=docker&logoColor=white" alt="" /></a>
-
-### Symfony: The Fast Track
-
-Symfony, in its first version, had only documentation, but no official book was created that would allow beginners to pleasantly enter cooperation with the framework. In Symfony 5, the creator of the framework decided to publish an official book that would be available in many languages, translated by the developers themselves. <br />
-I joined the project at the very beginning, and to this day, I help translate the Polish version of the book 📖
-
-<a href="https://symfony.com/book"><img src="https://img.shields.io/badge/learn%20symfony-000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="" /></a>
-
-### Twitch Helix Provider for OAuth 2.0
-
-A very simple package that allows you to easily connect your Symfony application with Twitch via a Helix API.
-Honestly, I don't have much time to maintain it by myself, but after checking <a href="https://packagist.org/packages/vertisan/oauth2-twitch-helix/stats">the number of downloads</a> by Composer and the activity of interested people, it should be available for a long time 🥰
-
-<a href="https://github.com/vertisan/oauth2-twitch-helix"><img src="https://img.shields.io/badge/start%20your%20stream-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white" alt="" /></a>
-
-### vCLI
-
-Is it just me who sometimes doesn't feel like typing long commands, e.g., to commit something? Or click through the UI to add the currently playing Spotify song to some playlist(s)? Or search for a task on Jira by its number? Maybe it's just me 😅
-<be />Many commands and scripts are still in sh/Bash, but over time, I'm moving more and more of them to my own CLI written in Go ;)
-
-One day I will click "Change visibility" 🤙🏼
+Questions, ideas, or want to compare homelab notes? [Reach out on LinkedIn](https://www.linkedin.com/in/pawel-farys/).
