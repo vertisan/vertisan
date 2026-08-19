@@ -67,4 +67,14 @@ My playground, and where most of the above gets tested before I trust it anywher
 
 ---
 
+## <img src="https://gitlab.com/assets/favicon-yellow-018213ceb87b472388095d0264be5b4319ef47471dacea03c83ecc233ced2fd5.png" width="22px" height="22px" /> GitLab
+
+I started working with GitLab in 2019 at one of the companies I worked for, and for some reason, I really liked working with it! Probably because it has group support, is self-hosted, and a few other things.
+
+Most of the homelab stuff has already been moved there, and recently I've also started contributing more, mainly because of one project I really liked!
+
+![GitLab Contributor Stats](https://contributors.gitlab.com/users/vertisan/banner.svg)
+
+---
+
 Questions, ideas, or want to compare homelab notes? [Reach out on LinkedIn](https://www.linkedin.com/in/pawel-farys/).
